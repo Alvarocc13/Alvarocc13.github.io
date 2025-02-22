@@ -1,0 +1,64 @@
+/* Estilos para el cuerpo de la página */
+body {
+  background-color: #7abef9;
+  font-family: Arial, sans-serif;
+  color: #119ee9;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilo para el encabezado */
+h1 {
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/* Estilo para el párrafo */
+p {
+  font-size: 18px;
+  color: #ffffff;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* Estilo para el enlace */
+a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilo para el botón */
+button {
+  background-color: #240ae9;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button:hover {
+  background-color: #45a049;
+}
