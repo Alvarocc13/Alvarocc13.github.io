@@ -1,5 +1,5 @@
 # Alvarocc13.github.io
-#¿Qué es HTML y cuál es su función en la web?
+# ¿Qué es HTML y cuál es su función en la web?
 #HTML (HyperText Markup Language) es un lenguaje de marcado usado para estructurar el contenido de las páginas web. Define elementos como texto, imágenes, enlaces y formularios mediante etiquetas. Su función principal es #organizar y mostrar la información de manera que los navegadores puedan interpretarla y presentarla correctamente.
 
 #¿Qué es una etiqueta HTML y menciona las etiquetas más comunes?
