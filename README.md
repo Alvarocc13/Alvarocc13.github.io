@@ -10,7 +10,7 @@
 # 2.	<head>: Contiene información sobre el documento, como el título y los metadatos.
 # 3.	<title>: Define el título de la página que aparece en la pestaña del navegador.
 # 4.	<body>: Contiene el contenido visible de la página web.
-# 5.	# <h1> a <h6>: Definen encabezados, siendo <h1> el más importante y <h6> el menos.
+# 5.	##<h1> a <h6>: Definen encabezados, siendo <h1> el más importante y <h6> el menos.
 # 6.	<p>: Define un párrafo.
 # 7.	<a>: Define un enlace o hipervínculo.
 # 8.	<img>: Inserta una imagen.
