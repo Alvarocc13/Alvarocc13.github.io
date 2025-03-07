@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+ 
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+ 
+nav {
+    text-align: right;
+    padding: 10px 30px 0 10px;
+  }
+  
+  nav>a {
+    color: #edeef3;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+ 
+  .wave {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+ h1{
+    text-align: left;
+    margin: 9px 20px -30px 15px;
+    font-size: 15px;
+  }
+main {
+    padding: 20px;
+}
+ 
+.articles {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+ 
+.article {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 25px;
+    width: 65%;
+    position: center;
+    text-align: center;
+}
+ 
+
+ 
+.contact-form {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+ 
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+ 
+.contact-form label {
+    margin-bottom: 5px;
+}
+ 
+.contact-form input,
+.contact-form textarea {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+ 
+.student-scores table {
+    width: 100%;
+    border-collapse: collapse;
+}
+ 
+.student-scores th,
+.student-scores td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+ 
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
